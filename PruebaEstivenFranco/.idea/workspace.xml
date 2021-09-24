@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c93f48d1-c243-4cfe-a861-0a3f0f479cc0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/proyectobase/tasks/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/co/com/choucair/certification/proyectobase/stepdefinitions/AcademyChoucairStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/co/com/choucair/certification/proyectobase/stepdefinitions/AcademyChoucairStepDefinitions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/Academy#20Choucair.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/Academy#20Choucair.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/co.com.choucair.certification.proyectobase.runners.RunnerTags.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/co.com.choucair.certification.proyectobase.runners.RunnerTags.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/co.com.choucair.certification.proyectobase.runners.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/co.com.choucair.certification.proyectobase.runners.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/features/academyChoucair.feature" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/test/features/academyChoucair.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-Academy#20Choucair.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-Academy#20Choucair.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-co.com.choucair.certification.proyectobase.runners.RunnerTags.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-co.com.choucair.certification.proyectobase.runners.RunnerTags.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/proyectobase/model/Ingreso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/proyectobase/model/Ingreso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/proyectobase/tasks/OpenUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/proyectobase/tasks/OpenUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/proyectobase/stepdefinitions/AcademyChoucairStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/proyectobase/stepdefinitions/AcademyChoucairStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/academyChoucair.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/academyChoucair.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-fbe6f4d200b34e01ac46b4225d2ace94dcb3ffe4e5ba8961c731a4f32e03aa8e.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-fbe6f4d200b34e01ac46b4225d2ace94dcb3ffe4e5ba8961c731a4f32e03aa8e.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/fbe6f4d200b34e01ac46b4225d2ace94dcb3ffe4e5ba8961c731a4f32e03aa8e.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/fbe6f4d200b34e01ac46b4225d2ace94dcb3ffe4e5ba8961c731a4f32e03aa8e.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/fbe6f4d200b34e01ac46b4225d2ace94dcb3ffe4e5ba8961c731a4f32e03aa8e.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/fbe6f4d200b34e01ac46b4225d2ace94dcb3ffe4e5ba8961c731a4f32e03aa8e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/fbe6f4d200b34e01ac46b4225d2ace94dcb3ffe4e5ba8961c731a4f32e03aa8e_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/fbe6f4d200b34e01ac46b4225d2ace94dcb3ffe4e5ba8961c731a4f32e03aa8e_screenshots.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1yYgGsxKVC642BQ0dpx0BLfYCj5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="co.com.choucair.certification.proyectobase.questions" />
+      <recent name="co.com.choucair.certification.proyectobase.tasks" />
+      <recent name="co.com.choucair.certification.proyectobase.userinterface" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Junital">
+    <configuration name="RunnerTags" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;co.com.choucair.certification.proyectobase.runners.RunnerTags&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Junital" type="JUnit" factoryName="JUnit">
+      <module name="co.com.choucair.certification.proyectobase.test" />
+      <option name="PACKAGE_NAME" value="co.com.choucair.certification.proyectobase.runners" />
+      <option name="MAIN_CLASS_NAME" value="co.com.choucair.certification.proyectobase.runners.RunnerTags" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.RunnerTags" />
+      <item itemvalue="JUnit.Junital" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.RunnerTags" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c93f48d1-c243-4cfe-a861-0a3f0f479cc0" name="Default Changelist" comment="" />
+      <created>1632433842810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632433842810</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1229" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1632437674276">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="-1229" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1632437674276" />
+    <state x="-878" y="47" key="#com.intellij.ide.util.MemberChooser" timestamp="1632516757288">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="-878" y="47" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1632516757288" />
+    <state x="-967" y="139" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1632516115065">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="-967" y="139" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1632516115065" />
+    <state x="-954" y="147" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1632437657568">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="-954" y="147" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1632437657568" />
+    <state x="-903" y="104" key="FileChooserDialogImpl" timestamp="1632504944405">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="-903" y="104" key="FileChooserDialogImpl/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1632504944405" />
+    <state width="1306" height="326" key="GridCell.Tab.0.bottom" timestamp="1632521307421">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="326" key="GridCell.Tab.0.bottom/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1632521307421" />
+    <state width="1306" height="326" key="GridCell.Tab.0.center" timestamp="1632521307421">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="326" key="GridCell.Tab.0.center/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1632521307421" />
+    <state width="1306" height="326" key="GridCell.Tab.0.left" timestamp="1632521307421">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="326" key="GridCell.Tab.0.left/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1632521307421" />
+    <state width="1306" height="326" key="GridCell.Tab.0.right" timestamp="1632521307421">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="326" key="GridCell.Tab.0.right/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1632521307421" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1632523111335">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1632523111335" />
+    <state x="-987" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1632447451165">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="-987" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1632447451165" />
+  </component>
+</project>
